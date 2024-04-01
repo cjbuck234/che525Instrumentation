@@ -4,7 +4,7 @@
 
 Tag|Manufacturer|Model|Key Parameter|
 ---|:---:|:---:|---: 
-FIT525A|Endress & Hauser|Promass Promass F300|lb/hr|
+FIT525A|Endress & Hauser|Promass F300|lb/hr|
 PIT525A|Endress & Hauser|Deltapilot S|psig|
 TE525A|Omega|3 wire PT100|°C|
 LIT525A|Endress & Hauser|Micropilot|%full|
@@ -16,3 +16,4 @@ LIT525A|Endress & Hauser|Micropilot|%full|
 ![Install Image 3](https://raw.githubusercontent.com/cjbuck234/che525Instrumentation/main/3install.JPG)
 
 ![Install Image 4](https://raw.githubusercontent.com/cjbuck234/che525Instrumentation/main/4install.JPG)
+
